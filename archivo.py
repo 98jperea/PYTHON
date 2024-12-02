@@ -1,0 +1,6 @@
+print("Hola, MUndo")
+print(type(x))
+print(type(5))
+print(type(1.5))
+print(type(True))
+print(type(3+1j))
